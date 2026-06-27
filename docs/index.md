@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Hi, I'm Jimmy Bach
 
 Data Science • Machine Learning • Public Health
 
