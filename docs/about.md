@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: ./about/
 author_profile: true
 toc: true
----------
+---
 
 # About
 
