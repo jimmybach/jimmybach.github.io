@@ -46,17 +46,17 @@ I enjoy working on problems that combine rigorous data science with meaningful r
 * MLOps
 * AI for Education
 
-## Research
+## Projects
 
-My research explores how machine learning can support public health decision-making.
+My current projects explore how machine learning can support public health decision-making and education.
 
 Current projects include:
 
 * **Survax** — A machine learning system for predicting childhood vaccination uptake using demographic and healthcare data.
-* **Diffusion Models for Tabular Data** — Benchmarking and standardizing diffusion-based tabular data generation models for reproducible research.
-* **Health Data Analytics** — Applying statistical and machine learning methods to improve health outcomes in low-resource settings.
+* **TeachThis** — An AI-powered educational platform that transforms lecture materials into searchable knowledge bases, interactive quizzes, and personalized study resources.
+* **Literature Review Assistant** — A research tool that retrieves, summarizes, and organizes biomedical literature using modern large language models.
 
-I'm particularly interested in developing models that are not only accurate but also interpretable, reproducible, and useful in practice.
+I'm particularly interested in developing models that are not only accurate but also interpretable, reproducible, and useful in practice. I also enjoy building tools to help people learn, reflective of my time as a teaching assistant throughout college.
 
 ## Software Projects
 
