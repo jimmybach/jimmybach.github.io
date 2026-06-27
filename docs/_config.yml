@@ -29,6 +29,9 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+include:
+  - _pages
+
 collections:
   projects:
     output: true
