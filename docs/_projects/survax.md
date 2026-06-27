@@ -9,4 +9,4 @@ Survax is a machine learning project focused on predicting childhood vaccination
 
 [View GitHub Repo](https://github.com/jimmybach/survax){: .btn .btn--primary}
 
-[Read the full write-up](/2026/06/27/survax.html){: .btn}
+[Read the full write-up](/projects/2026/06/27/survax.html){: .btn}
