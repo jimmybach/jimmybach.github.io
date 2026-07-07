@@ -7,6 +7,8 @@ permalink: /projects/researchflow/
 
 Survax is a machine learning project focused on predicting childhood vaccination uptake using public health and demographic data.
 
-[View GitHub Repo](https://github.com/jimmybach/researchflow){: .btn .btn--primary}
 
+[Watch the Demo](https://youtu.be/wz89dV10qFM){: .btn .btn--primary}
+
+[View GitHub Repo](https://github.com/jimmybach/researchflow){: .btn}
 [Read the full write-up]({% post_url 2026-07-07-researchflow %}){: .btn}
