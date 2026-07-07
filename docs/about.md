@@ -31,23 +31,12 @@ I enjoy working on problems that combine rigorous data science with meaningful r
 My current projects explore how machine learning can support public health decision-making and education.
 
 Current projects include:
-
+* **ResearchFlow** — A LangGraph stateful workflow designed as a research tool that retrieves, summarizes, and organizes biomedical literature using modern large language models.
 * **Survax** — A machine learning system for predicting childhood vaccination uptake using demographic and healthcare data.
 * **TeachThis** — An AI-powered educational platform that transforms lecture materials into searchable knowledge bases, interactive quizzes, and personalized study resources.
-* **Literature Review Assistant** — A research tool that retrieves, summarizes, and organizes biomedical literature using modern large language models.
+
 
 I'm particularly interested in developing models that are not only accurate but also interpretable, reproducible, and useful in practice. I also enjoy building tools to help people learn, reflective of my time as a teaching assistant throughout college.
-
-## Software Projects
-
-Beyond research, I enjoy building software that makes complex workflows easier.
-
-Some recent projects include:
-
-* **TeachThis** — An AI-powered educational platform that transforms lecture materials into searchable knowledge bases, interactive quizzes, and personalized study resources.
-* **Literature Review Assistant** — A research tool that retrieves, summarizes, and organizes biomedical literature using modern large language models.
-
-I enjoy building complete systems—from data pipelines and model development to deployment and user-facing applications.
 
 ## Technical Skills
 
@@ -76,6 +65,7 @@ I enjoy building complete systems—from data pipelines and model development to
 
 * Streamlit
 * LangChain
+* LangGraph
 * Jupyter
 * Render
 
